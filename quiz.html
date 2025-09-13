@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toets</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <div class="quiz-header">
+            <h1 id="quiz-title"></h1>
+            <div id="timer">Tijd: <span id="time"></span>s</div>
+        </div>
+        <div id="question-container" class="question-card"></div>
+        <div class="button-group">
+            <button id="next-btn" onclick="nextQuestion()">Volgende</button>
+            <button id="end-btn" onclick="finishQuiz()">Beëindig toets</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
