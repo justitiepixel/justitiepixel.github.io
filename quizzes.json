@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Wiskunde Toets",
+        "questions": [
+            {
+                "question": "Wat is 2 + 2?",
+                "options": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "answer": 1,
+                "time": 10,
+                "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/4_2.svg/1200px-4_2.svg.png"
+            },
+            {
+                "question": "Bekijk deze video en beantwoord de vraag: Wat is het resultaat van 5 * 3?",
+                "options": [
+                    "15",
+                    "10",
+                    "20",
+                    "25"
+                ],
+                "answer": 0,
+                "time": 15,
+                "media": "https://www.w3schools.com/html/mov_bbb.mp4"
+            }
+        ]
+    }
+]
