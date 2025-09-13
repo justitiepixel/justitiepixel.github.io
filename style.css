@@ -1,0 +1,152 @@
+/* Basis en achtergrond */
+body {
+    font-family: 'Merriweather', Georgia, serif;
+    background: linear-gradient(to right, #1a1a1a, #2c2c2c);
+    color: #fff;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Startpagina container */
+.start-page,
+.quiz-container {
+    background: rgba(255, 255, 255, 0.98);
+    color: #1a1a1a;
+    padding: 50px;
+    border-radius: 20px;
+    width: 95%;
+    max-width: 1000px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+/* Header voor autoritair gevoel */
+.start-page h1,
+.quiz-container h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #2c3e50;
+}
+
+.start-page p {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 40px;
+}
+
+/* Toetskaarten */
+.quiz-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+}
+
+.quiz-card {
+    background: #ecf0f1;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 180px;
+}
+
+.quiz-card h2 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.quiz-card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+}
+
+/* Startknop */
+.start-btn,
+button {
+    display: inline-block;
+    background: #2980b9;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.start-btn:hover,
+button:hover {
+    background: #1f618d;
+    transform: translateY(-2px);
+}
+
+/* Media styling voor vragen */
+.media {
+    margin: 20px 0;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Vraagkaart */
+.question-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    background: #f8f9fa;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Opties */
+.options button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    font-size: 1em;
+    background: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.options button:hover {
+    background: #2c80b4;
+}
+
+/* Knopgroep */
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+#end-btn {
+    background: #c0392b;
+}
+
+#end-btn:hover {
+    background: #922b21;
+}
+
+/* Timer styling */
+#timer {
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #c0392b;
+    margin-top: 10px;
+}
