@@ -1,30 +1,1336 @@
 [
     {
-        "title": "Wiskunde Toets",
+        "title": "HovJ Examen 1 - Strafrecht Basis",
         "questions": [
             {
-                "question": "Wat is 2 + 2?",
+                "question": "Wat is het primaire doel van het Wetboek van Strafvordering?",
                 "options": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
+                    "Het voorkomen van misdrijven",
+                    "Het regelen van het strafproces",
+                    "Het bepalen van strafmaatregelen",
+                    "Het handhaven van verkeersregels"
                 ],
                 "answer": 1,
-                "time": 10,
-                "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/4_2.svg/1200px-4_2.svg.png"
+                "time": 20
             },
             {
-                "question": "Bekijk deze video en beantwoord de vraag: Wat is het resultaat van 5 * 3?",
+                "question": "Welke rechtsregel stelt dat iemand onschuldig is tot het tegendeel bewezen is?",
                 "options": [
-                    "15",
-                    "10",
-                    "20",
-                    "25"
+                    "Legaliteitsbeginsel",
+                    "Onschuldpresumptie",
+                    "Subsidiariteitsbeginsel",
+                    "Ne bis in idem"
+                ],
+                "answer": 1,
+                "time": 15
+            },
+            {
+                "question": "Een verdachte wordt aangehouden. Welke handeling mag een HovJ adviseren?",
+                "options": [
+                    "Direct schuldig verklaren",
+                    "Overleggen over voorlopige hechtenis",
+                    "Zelf opsporingsonderzoek doen",
+                    "Bewijzen vernietigen"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Welke maatregel kan een HovJ adviseren bij ernstige strafbare feiten?",
+                "options": [
+                    "Dagvaarding voor de rechtbank",
+                    "Waarschuwing geven",
+                    "Boete opleggen",
+                    "Taakstraf zonder proces"
                 ],
                 "answer": 0,
-                "time": 15,
-                "media": "https://www.w3schools.com/html/mov_bbb.mp4"
+                "time": 20
+            },
+            {
+                "question": "Bekijk deze afbeelding van een plaats delict. Welke techniek wordt hier toegepast?",
+                "options": [
+                    "Vingerafdrukonderzoek",
+                    "Ballistiek",
+                    "Forensische fotografie",
+                    "DNA-analyse"
+                ],
+                "answer": 2,
+                "time": 25,
+                "media": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Crime_scene_photo.jpg"
+            },
+            {
+                "question": "Wat is het verschil tussen een misdrijf en een overtreding?",
+                "options": [
+                    "Misdrijf is zwaarder en strafbaar met gevangenisstraf, overtreding lichter",
+                    "Geen verschil",
+                    "Overtreding is zwaarder dan misdrijf",
+                    "Misdrijf is administratief"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het legaliteitsbeginsel?",
+                "options": [
+                    "Er is geen straf zonder wet",
+                    "Iedereen mag doen wat hij wil",
+                    "Alle wetten zijn optioneel",
+                    "Je mag straffen zonder rechterlijke uitspraak"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is ne bis in idem?",
+                "options": [
+                    "Iemand mag niet tweemaal voor hetzelfde feit worden berecht",
+                    "Iemand mag onbeperkt voor hetzelfde feit worden berecht",
+                    "Het is een soort voorlopige hechtenis",
+                    "Een administratieve maatregel"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het vermoeden van onschuld?",
+                "options": [
+                    "Verdachte wordt als onschuldig beschouwd totdat schuld bewezen is",
+                    "Verdachte is schuldig totdat het tegendeel bewezen is",
+                    "Verdachte hoeft niet te verschijnen in de rechtbank",
+                    "Bewijs is niet nodig bij een misdrijf"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen materieel en formeel strafrecht?",
+                "options": [
+                    "Materieel bepaalt strafbare feiten, formeel regelt procedure",
+                    "Materieel is procedure, formeel is inhoud",
+                    "Geen verschil",
+                    "Formeel is alleen voor overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een dagvaarding?",
+                "options": [
+                    "Officiële oproep om voor de rechter te verschijnen",
+                    "Straffen opleggen zonder proces",
+                    "Een intern rapport van politie",
+                    "Een voorlopige hechtenis"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een sepot?",
+                "options": [
+                    "Beslissing om een zaak niet te vervolgen",
+                    "Verdachte krijgt een maximale straf",
+                    "Proces wordt onmiddellijk gestart",
+                    "Bewijs wordt vernietigd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat betekent het recht op een eerlijk proces?",
+                "options": [
+                    "Iedereen heeft recht op een onafhankelijke en onpartijdige rechter",
+                    "Verdachte mag worden gestraft zonder proces",
+                    "Bewijs hoeft niet getoond te worden",
+                    "Het proces mag geheim zijn"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een voorlopige hechtenis?",
+                "options": [
+                    "Tijdelijke opsluiting tijdens onderzoek",
+                    "Definitieve straf na vonnis",
+                    "Preventieve straf zonder proces",
+                    "Vrijwillige detentie"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een strafbeschikking?",
+                "options": [
+                    "Boete of sanctie opgelegd door OM zonder rechterlijke uitspraak",
+                    "Direct vonnis door rechter",
+                    "Bewijs vernietigen",
+                    "Administratieve nota"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het recht op verdediging?",
+                "options": [
+                    "Verdachte heeft recht op advocaat en inspraak in proces",
+                    "Verdachte hoeft niet gehoord te worden",
+                    "Verdachte mag geen advocaat hebben",
+                    "Alleen slachtoffer mag spreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen een getuige en een deskundige?",
+                "options": [
+                    "Getuige rapporteert feiten; deskundige geeft professioneel oordeel",
+                    "Geen verschil",
+                    "Getuige mag advies geven, deskundige niet",
+                    "Deskundige hoeft niet op te komen dagen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen absolute en relatieve strafmaat?",
+                "options": [
+                    "Absolute is wettelijk maximum, relatieve kan lager door omstandigheden",
+                    "Geen verschil",
+                    "Relatieve is maximum, absolute lager",
+                    "Alleen van toepassing bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een wrakingsverzoek?",
+                "options": [
+                    "Verzoek om rechter te vervangen wegens vooringenomenheid",
+                    "Direct proces stopzetten",
+                    "Verdachte straffen zonder proces",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat betekent subsidiariteit in strafrecht?",
+                "options": [
+                    "Straf wordt alleen toegepast als andere middelen niet effectief zijn",
+                    "Straf altijd maximaal toepassen",
+                    "Subsidiariteit gaat over administratieve boetes",
+                    "Het recht op beroep"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen materiële en formele fout?",
+                "options": [
+                    "Materiële fout gaat over inhoud, formele fout over procedure",
+                    "Geen verschil",
+                    "Formele fout gaat over inhoud",
+                    "Materiële fout is altijd nietig"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het vertrouwensbeginsel?",
+                "options": [
+                    "Overheid en burger mogen vertrouwen op correcte naleving van wet en procedure",
+                    "Verdachte mag niets vertrouwen",
+                    "Alle wetten zijn vrijblijvend",
+                    "Bewijs mag niet gebruikt worden"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het doel van een pro forma zitting?",
+                "options": [
+                    "Formeel proces zonder inhoudelijke behandeling van de zaak",
+                    "Verdachte direct straffen",
+                    "Bewijs vernietigen",
+                    "Verdachte vrijspreken"
+                ],
+                "answer": 0,
+                "time": 15
+            }
+        ]
+    },
+    {
+        "title": "HovJ Examen 2 - Strafproces en Bewijs",
+        "questions": [
+            {
+                "question": "Wat is een dagvaarding?",
+                "options": [
+                    "Een schriftelijke oproep voor de verdachte om voor de rechter te verschijnen",
+                    "Een intern rapport van politie",
+                    "Een administratief boetebesluit",
+                    "Een onderzoeksbevel"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Welke van de onderstaande bewijsmiddelen is juridisch toegestaan in Nederland?",
+                "options": [
+                    "Illegaal verkregen telefoongegevens",
+                    "Getuigenverklaring",
+                    "Dwangmiddel zonder machtiging",
+                    "Bewijs van een privé-detective zonder toestemming"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen voorlopige hechtenis en gevangenisstraf?",
+                "options": [
+                    "Geen verschil",
+                    "Voorlopige hechtenis is tijdelijk tijdens onderzoek, gevangenisstraf is straf na veroordeling",
+                    "Gevangenisstraf is preventief, voorlopige hechtenis is straf",
+                    "Voorlopige hechtenis kan alleen door de HovJ worden opgelegd"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Welke rol speelt de HovJ bij het opstellen van het opsporingsonderzoek?",
+                "options": [
+                    "Hij voert zelf de arrestaties uit",
+                    "Hij adviseert over juridische stappen en dagvaardingen",
+                    "Hij bepaalt de strafmaat",
+                    "Hij controleert de media"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen direct bewijs en indirect bewijs?",
+                "options": [
+                    "Direct bewijs toont feit rechtstreeks aan, indirect bewijs toont via omstandigheden",
+                    "Geen verschil",
+                    "Indirect bewijs is altijd sterker",
+                    "Direct bewijs is ongeoorloofd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een pro-forma zitting in strafproces?",
+                "options": [
+                    "Formele zitting zonder inhoudelijke behandeling",
+                    "Zitting waarin verdachte direct gestraft wordt",
+                    "Zitting waarin bewijs wordt vernietigd",
+                    "Geen juridische betekenis"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat betekent het beginsel van hoor en wederhoor?",
+                "options": [
+                    "Iedere partij krijgt de kans om zijn standpunt te geven",
+                    "Rechter mag bewijs negeren",
+                    "Verdachte hoeft niet gehoord te worden",
+                    "Alleen het OM mag spreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is de rol van de HovJ bij digitale bewijzen?",
+                "options": [
+                    "Advies over wettigheid en procedure bij verzamelen en bewaren",
+                    "Direct wissen van gegevens",
+                    "Gegevens openbaar maken",
+                    "Geen rol"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat is het verschil tussen een getuige en een deskundige?",
+                "options": [
+                    "Getuige rapporteert feiten, deskundige geeft professioneel oordeel",
+                    "Geen verschil",
+                    "Getuige mag advies geven, deskundige niet",
+                    "Deskundige hoeft niet te verschijnen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wanneer mag een HovJ voorlopige hechtenis adviseren?",
+                "options": [
+                    "Bij ernstig gevaar, vluchtgevaar of recidive",
+                    "Altijd bij elke verdachte",
+                    "Nooit, alleen rechter beslist",
+                    "Alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een bewijsminimum in strafproces?",
+                "options": [
+                    "Schuld moet overtuigend bewezen worden volgens wet",
+                    "Geen bewijs nodig",
+                    "Getuigen zijn altijd voldoende",
+                    "Alle bewijs wordt genegeerd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een strafbeschikking?",
+                "options": [
+                    "Boete of sanctie opgelegd door OM zonder rechterlijke uitspraak",
+                    "Direct vonnis door rechter",
+                    "Bewijs vernietigen",
+                    "Administratieve nota"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen heterdaad en niet-heterdaad?",
+                "options": [
+                    "Heterdaad: op heterdaad betrapt; niet-heterdaad: later ontdekt",
+                    "Geen verschil",
+                    "Niet-heterdaad: direct opgesloten",
+                    "Heterdaad: alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een sepot?",
+                "options": [
+                    "Beslissing om een zaak niet te vervolgen",
+                    "Verdachte krijgt maximale straf",
+                    "Proces wordt onmiddellijk gestart",
+                    "Bewijs wordt vernietigd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het doel van een wrakingsverzoek?",
+                "options": [
+                    "Rechter vervangen bij mogelijke vooringenomenheid",
+                    "Proces direct stoppen",
+                    "Verdachte straffen zonder proces",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen materieel en formeel bewijs?",
+                "options": [
+                    "Materieel bewijs toont feit; formeel bewijs voldoet aan juridische vormvereisten",
+                    "Geen verschil",
+                    "Formeel bewijs toont feit; materieel bewijs is procedure",
+                    "Alle bewijs is formeel"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het recht op inzage in dossier?",
+                "options": [
+                    "Verdachte mag processtukken en bewijs bekijken",
+                    "Verdachte mag dossier niet zien",
+                    "Alleen advocaat mag dossier zien",
+                    "Dossier is openbaar voor iedereen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een voorlopige dagvaarding?",
+                "options": [
+                    "Tijdelijke oproep om verdachte later te vervolgen",
+                    "Direct vonnis",
+                    "Bewijs vernietigen",
+                    "Geen juridische waarde"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het doel van getuigenverhoren?",
+                "options": [
+                    "Verkrijgen van betrouwbare informatie voor onderzoek en vervolging",
+                    "Getuige straffen",
+                    "Bewijs negeren",
+                    "Getuige negeren"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen subjectief en objectief bewijs?",
+                "options": [
+                    "Subjectief: gebaseerd op mening; objectief: gebaseerd op feiten",
+                    "Geen verschil",
+                    "Objectief is mening; subjectief is feit",
+                    "Alle bewijs is subjectief"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wanneer mag een HovJ adviseren over dwangmiddelen zoals afluisteren?",
+                "options": [
+                    "Alleen bij wettelijke gronden en toestemming",
+                    "Altijd zonder reden",
+                    "Nooit, alleen rechter beslist",
+                    "Alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat is een pro-forma zitting?",
+                "options": [
+                    "Formeel proces zonder inhoudelijke behandeling van de zaak",
+                    "Verdachte direct straffen",
+                    "Bewijs vernietigen",
+                    "Verdachte vrijspreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is de HovJ’s rol bij strategische opsporing?",
+                "options": [
+                    "Advies geven over rechtmatigheid, bewijsverzameling en vervolging",
+                    "Bewijs vernietigen",
+                    "Verdachte direct straffen",
+                    "Media informeren over onderzoek"
+                ],
+                "answer": 0,
+                "time": 30
+            }
+        ]
+    },
+    {
+        "title": "HovJ Examen 3 - Opsporing en Procedure",
+        "questions": [
+            {
+                "question": "Wat is een officier van justitie bevoegd om te doen?",
+                "options": [
+                    "Strafproces sturen en dagvaarden",
+                    "Bewijzen verwijderen",
+                    "Verdachten zonder reden fouilleren",
+                    "Politiek beleid maken"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Een verdachte weigert mee te werken aan het onderzoek. Wat mag de HovJ adviseren?",
+                "options": [
+                    "Het negeren",
+                    "Voorlopige hechtenis aanvragen bij de rechter-commissaris",
+                    "Zelf geweld toepassen",
+                    "De zaak laten vallen"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Welke documenten moet de HovJ controleren voor een strafzaak?",
+                "options": [
+                    "Politieverslagen, proces-verbaal, bewijsmateriaal",
+                    "Alleen politiefoto's",
+                    "Alleen de sociale media van de verdachte",
+                    "Persoonlijke notities van agenten"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is de rol van de HovJ bij een huiszoeking?",
+                "options": [
+                    "Advies geven over wettigheid en uitvoering van huiszoeking",
+                    "Zelf de woning doorzoeken",
+                    "Bewijs verbergen",
+                    "Verdachte direct straffen"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wanneer mag voorlopige hechtenis worden aangevraagd?",
+                "options": [
+                    "Bij zwaarwegend gevaar of recidive",
+                    "Altijd bij elke verdachte",
+                    "Nooit, alleen vrijlaten",
+                    "Alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een dagvaarding?",
+                "options": [
+                    "Officiële oproep om voor de rechter te verschijnen",
+                    "Bewijs vernietigen",
+                    "Straf opleggen zonder proces",
+                    "Intern politierapport"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een proces-verbaal?",
+                "options": [
+                    "Verslag van politieonderzoek en aangetroffen bewijzen",
+                    "Persoonlijke aantekeningen van HovJ",
+                    "Strafbeschikking van de rechter",
+                    "Officiële brief van het OM"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is de rol van de HovJ bij inbeslagname van goederen?",
+                "options": [
+                    "Advies geven over rechtmatigheid en bewaring",
+                    "Goederen vernietigen",
+                    "Aan verdachte teruggeven zonder procedure",
+                    "Bewijs negeren"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat mag een HovJ adviseren bij het verzamelen van digitale bewijzen?",
+                "options": [
+                    "Alle wettelijke procedures volgen, zoals toestemming en bewaring",
+                    "Direct gegevens wissen",
+                    "Bewijs openbaar maken",
+                    "Advies negeren"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wanneer kan een verdachte worden opgeroepen voor verhoor?",
+                "options": [
+                    "Altijd na advies HovJ en wettelijke procedure",
+                    "Direct zonder kennisgeving",
+                    "Alleen via sociale media",
+                    "Alleen na schikking"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een aanhouding in heterdaad?",
+                "options": [
+                    "Verdachte betrapt tijdens het plegen van het delict",
+                    "Verdachte wordt later opgeroepen",
+                    "Proces-verbaal wordt vernietigd",
+                    "Verdachte wordt direct vrijgelaten"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een sepot?",
+                "options": [
+                    "Beslissing om een zaak niet te vervolgen",
+                    "Verdachte krijgt maximale straf",
+                    "Proces wordt onmiddellijk gestart",
+                    "Bewijs wordt vernietigd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wanneer kan een HovJ adviseren over het inzetten van dwangmiddelen?",
+                "options": [
+                    "Bij wettelijke gronden zoals gevaar, bewijsbescherming of recidive",
+                    "Altijd, zonder reden",
+                    "Nooit, alleen rechter beslist",
+                    "Alleen bij administratieve overtredingen"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat is het verschil tussen voorlopige hechtenis en straf?",
+                "options": [
+                    "Voorlopige hechtenis is tijdelijk tijdens onderzoek, straf volgt na vonnis",
+                    "Geen verschil",
+                    "Straf is altijd lichter",
+                    "Alleen voor overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is de rol van HovJ bij het adviseren over bewaring van bewijs?",
+                "options": [
+                    "Zorgdragen dat bewijs veilig, compleet en juridisch correct wordt bewaard",
+                    "Bewijs vernietigen",
+                    "Bewijs aan verdachte geven",
+                    "Bewijs negeren"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat is het verschil tussen heterdaad en niet-heterdaad?",
+                "options": [
+                    "Heterdaad: direct betrapt, niet-heterdaad: later ontdekt",
+                    "Geen verschil",
+                    "Niet-heterdaad: direct opgesloten",
+                    "Heterdaad: alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een voorlopige dagvaarding?",
+                "options": [
+                    "Tijdelijke oproep om verdachte later te vervolgen",
+                    "Direct vonnis",
+                    "Bewijs vernietigen",
+                    "Geen juridische waarde"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat moet de HovJ adviseren bij een verdenking van georganiseerde misdaad?",
+                "options": [
+                    "Strategische planning van opsporing, toezicht en vervolging",
+                    "Bewijs negeren",
+                    "Verdachte direct straffen",
+                    "Media informeren over verdachte"
+                ],
+                "answer": 0,
+                "time": 30
+            },
+            {
+                "question": "Wat is een wrakingsverzoek?",
+                "options": [
+                    "Verzoek om rechter te vervangen wegens mogelijke vooringenomenheid",
+                    "Proces stopzetten",
+                    "Verdachte straffen zonder proces",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wanneer kan een HovJ adviseren over huiszoeking bij digitale apparaten?",
+                "options": [
+                    "Alleen bij wettelijke toestemming en duidelijke indicatie van bewijs",
+                    "Altijd zonder reden",
+                    "Nooit, alleen rechter beslist",
+                    "Alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Wat is een pro forma zitting?",
+                "options": [
+                    "Formeel proces zonder inhoudelijke behandeling van de zaak",
+                    "Verdachte direct straffen",
+                    "Bewijs vernietigen",
+                    "Verdachte vrijspreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat mag HovJ adviseren over het gebruik van infiltranten in onderzoek?",
+                "options": [
+                    "Alle wettelijke procedures volgen en toezicht waarborgen",
+                    "Direct inzetten zonder toestemming",
+                    "Bewijs negeren",
+                    "Verdachte informeren over infiltrant"
+                ],
+                "answer": 0,
+                "time": 30
+            },
+            {
+                "question": "Wat is het doel van het raadplegen van getuigen?",
+                "options": [
+                    "Verkrijgen van betrouwbare informatie voor onderzoek en vervolging",
+                    "Getuigen straffen",
+                    "Bewijs negeren",
+                    "Alle getuigen negeren"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is de HovJ's rol bij het beoordelen van verzoeken tot verlenging van voorlopige hechtenis?",
+                "options": [
+                    "Advies geven over rechtmatigheid en proportionaliteit",
+                    "Direct verlengen zonder procedure",
+                    "Verdachte vrijlaten zonder overweging",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 0,
+                "time": 25
+            }
+        ]
+    },
+    {
+        "title": "HovJ Examen 4 - Juridische Kennis",
+        "questions": [
+            {
+                "question": "Wat betekent het legaliteitsbeginsel?",
+                "options": [
+                    "Er is geen straf zonder wet",
+                    "Iedereen mag doen wat hij wil",
+                    "Alle wetten zijn optioneel",
+                    "Je mag straffen zonder rechterlijke uitspraak"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een ne bis in idem-beginsel?",
+                "options": [
+                    "Iemand mag niet tweemaal voor hetzelfde feit worden berecht",
+                    "Iemand mag onbeperkt voor hetzelfde feit worden berecht",
+                    "Het is een soort voorlopige hechtenis",
+                    "Een administratieve maatregel"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen een misdrijf en een overtreding?",
+                "options": [
+                    "Misdrijf is zwaarder en strafbaar met gevangenisstraf, overtreding lichter",
+                    "Geen verschil",
+                    "Overtreding is zwaarder dan misdrijf",
+                    "Misdrijf is administratief"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het vermoeden van onschuld?",
+                "options": [
+                    "Verdachte wordt als onschuldig beschouwd totdat schuld bewezen is",
+                    "Verdachte is schuldig totdat het tegendeel bewezen is",
+                    "Verdachte hoeft niet te verschijnen in de rechtbank",
+                    "Bewijs is niet nodig bij een misdrijf"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat betekent subsidiariteit in strafrecht?",
+                "options": [
+                    "Straf wordt alleen toegepast als andere middelen niet effectief zijn",
+                    "Straf altijd maximaal toepassen",
+                    "Subsidiariteit gaat over administratieve boetes",
+                    "Het recht op beroep"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen materieel en formeel strafrecht?",
+                "options": [
+                    "Materieel bepaalt strafbare feiten, formeel regelt procedure",
+                    "Materieel is procedure, formeel is inhoud",
+                    "Geen verschil",
+                    "Formeel is alleen voor overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een dagvaarding?",
+                "options": [
+                    "Officiële oproep om voor de rechter te verschijnen",
+                    "Straffen opleggen zonder proces",
+                    "Een intern rapport van politie",
+                    "Een voorlopige hechtenis"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een sepot?",
+                "options": [
+                    "Beslissing om een zaak niet te vervolgen",
+                    "Verdachte krijgt een maximale straf",
+                    "Proces wordt onmiddellijk gestart",
+                    "Bewijs wordt vernietigd"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen een strafbeschikking en een vonnis?",
+                "options": [
+                    "Strafbeschikking wordt door OM opgelegd, vonnis door rechter",
+                    "Geen verschil",
+                    "Vonnis is administratief",
+                    "Strafbeschikking is alleen voor overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat betekent het recht op een eerlijk proces?",
+                "options": [
+                    "Iedereen heeft recht op een onafhankelijke en onpartijdige rechter",
+                    "Verdachte mag worden gestraft zonder proces",
+                    "Bewijs hoeft niet getoond te worden",
+                    "Het proces mag geheim zijn"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen voorlopige hechtenis en straf?",
+                "options": [
+                    "Voorlopige hechtenis is tijdelijk tijdens onderzoek, straf volgt na vonnis",
+                    "Voorlopige hechtenis is zwaarder",
+                    "Straf is altijd lichtere maatregel",
+                    "Geen verschil"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het bewijsminimum in een strafzaak?",
+                "options": [
+                    "Schuld moet overtuigend bewezen worden volgens wet",
+                    "Verdachte hoeft niet bewezen te worden",
+                    "Alleen getuigenverklaringen volstaan altijd",
+                    "Bewijs is niet nodig bij een overtreding"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen een getuige en een deskundige?",
+                "options": [
+                    "Getuige rapporteert wat hij zag, deskundige geeft professioneel oordeel",
+                    "Geen verschil",
+                    "Getuige mag advies geven, deskundige niet",
+                    "Deskundige hoeft niet op te komen dagen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het recht op inzage in dossier?",
+                "options": [
+                    "Verdachte mag bewijs en processtukken bekijken",
+                    "Verdachte mag dossier niet zien",
+                    "Alleen advocaat mag dossier zien",
+                    "Dossier is openbaar voor iedereen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen een materiële en formele fout?",
+                "options": [
+                    "Materiële fout gaat over inhoud, formele fout over procedure",
+                    "Geen verschil",
+                    "Formele fout gaat over inhoud",
+                    "Materiële fout is altijd nietig"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het recht op verdediging?",
+                "options": [
+                    "Verdachte heeft recht op advocaat en inspraak in proces",
+                    "Verdachte hoeft niet gehoord te worden",
+                    "Verdachte mag geen advocaat hebben",
+                    "Alleen slachtoffer mag spreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is een schikking?",
+                "options": [
+                    "Overeenkomst waarbij verdachte een boete accepteert in plaats van proces",
+                    "Verdachte wordt automatisch vrijgesproken",
+                    "Proces wordt geheim gehouden",
+                    "Geen juridische waarde"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen een absolute en relatieve strafmaat?",
+                "options": [
+                    "Absolute is wettelijk maximum, relatieve kan lager door omstandigheden",
+                    "Geen verschil",
+                    "Relatieve is maximum, absolute lager",
+                    "Alleen van toepassing bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het onderscheid tussen subjectief en objectief recht?",
+                "options": [
+                    "Subjectief recht is persoonlijk recht, objectief recht is algemeen geldende regels",
+                    "Geen verschil",
+                    "Objectief recht is persoonlijk, subjectief algemeen",
+                    "Alle rechten zijn subjectief"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is een wrakingsverzoek?",
+                "options": [
+                    "Verzoek om rechter te vervangen wegens vooringenomenheid",
+                    "Direct proces stopzetten",
+                    "Verdachte straffen zonder proces",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat is het verschil tussen een voorlopige en definitieve maatregel?",
+                "options": [
+                    "Voorlopige is tijdelijk tijdens proces, definitieve is na oordeel rechter",
+                    "Geen verschil",
+                    "Definitieve maatregel is tijdelijk",
+                    "Alleen van toepassing bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het verschil tussen heterdaad en niet-heterdaad?",
+                "options": [
+                    "Heterdaad: misdrijf op het moment van ontdekking, niet-heterdaad: later ontdekt",
+                    "Geen verschil",
+                    "Niet-heterdaad: direct gevangen",
+                    "Heterdaad: alleen bij overtredingen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Wat is het doel van een pro forma zitting?",
+                "options": [
+                    "Formeel proces zonder inhoudelijke behandeling van de zaak",
+                    "Verdachte direct straffen",
+                    "Bewijs vernietigen",
+                    "Verdachte vrijspreken"
+                ],
+                "answer": 0,
+                "time": 15
+            },
+            {
+                "question": "Wat betekent het vertrouwensbeginsel?",
+                "options": [
+                    "Overheid en burger mogen vertrouwen op correcte naleving van wet en procedure",
+                    "Verdachte mag niets vertrouwen",
+                    "Alle wetten zijn vrijblijvend",
+                    "Bewijs mag niet gebruikt worden"
+                ],
+                "answer": 0,
+                "time": 15
+            }
+        ]
+    },
+    {
+        "title": "HovJ Examen 5 - Praktische Scenario's",
+        "questions": [
+            {
+                "question": "Een verdachte wordt aangehouden voor diefstal. Welke stap adviseert de HovJ?",
+                "options": [
+                    "Direct vrijlaten",
+                    "Overleggen over voorlopige hechtenis of dagvaarding",
+                    "Zelf straf opleggen",
+                    "Bewijzen verwijderen"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Tijdens een onderzoek vindt de politie een illegaal wapen. Wat is de juiste procedure?",
+                "options": [
+                    "Wapen vernietigen",
+                    "Opnemen in proces-verbaal en advies HovJ volgen",
+                    "Aan verdachte teruggeven",
+                    "Verbergen"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een getuige weigert te verklaren. Wat kan de HovJ doen?",
+                "options": [
+                    "Geen actie",
+                    "Advies geven over dagvaarding of rechterlijke middelen",
+                    "Gedwongen verklaring afnemen",
+                    "Direct schuldig verklaren"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Een verdachte is minderjarig. Welke overweging moet de HovJ maken?",
+                "options": [
+                    "Direct opsluiten in volwassen gevangenis",
+                    "Advies geven over jeugdstrafrechtelijke maatregelen",
+                    "Geen actie",
+                    "Straf verzwaard door leeftijd"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Tijdens een onderzoek naar fraude komt een nieuwe verdachte naar voren. Wat adviseert de HovJ?",
+                "options": [
+                    "Direct dagvaarden zonder bewijs",
+                    "Opnemen in het onderzoek en adviseren over vervolging",
+                    "Negeer de verdachte",
+                    "Straf gelijk opleggen"
+                ],
+                "answer": 1,
+                "time": 30
+            },
+            {
+                "question": "De politie overlegt over voorlopige hechtenis. Wat is het advies van de HovJ?",
+                "options": [
+                    "Voorlopige hechtenis alleen bij zwaarwegend gevaar",
+                    "Altijd voorlopige hechtenis",
+                    "Voorlopige hechtenis vermijden",
+                    "Zelf de verdachte straffen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Bij een huiszoeking wordt een verdachte niet aangetroffen. Wat moet de politie doen volgens HovJ?",
+                "options": [
+                    "Huis binnendringen zonder bevel",
+                    "Rapporteren en adviseren over vervolgonderzoek",
+                    "Alle bewijs vernietigen",
+                    "Verklikken aan media"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte beroept zich op het zwijgrecht. Wat is het juiste advies?",
+                "options": [
+                    "Gedwongen laten spreken",
+                    "Het zwijgrecht respecteren en proces vervolgen",
+                    "Direct schuldig verklaren",
+                    "Bewijs verwijderen"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Tijdens een straatcontrole wordt een verdachte betrapt met drugs. Wat adviseert de HovJ?",
+                "options": [
+                    "Drugs vernietigen en niets rapporteren",
+                    "Proces-verbaal opmaken en vervolging overwegen",
+                    "Drugs teruggeven",
+                    "Verdachte vrijlaten zonder proces"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een slachtoffer wil aangifte doen van mishandeling, maar de verdachte is kind. Wat is de rol van HovJ?",
+                "options": [
+                    "Direct straffen",
+                    "Advies geven over jeugdstrafrecht en bescherming slachtoffer",
+                    "Aangifte weigeren",
+                    "Kind opsluiten zonder procedure"
+                ],
+                "answer": 1,
+                "time": 30
+            },
+            {
+                "question": "Politie verliest cruciaal bewijs. Wat moet de HovJ adviseren?",
+                "options": [
+                    "Verlies negeren",
+                    "Onderzoek herstructureren en bewijsprocedure evalueren",
+                    "Verdachte alsnog schuldig verklaren",
+                    "Nieuwe verdachte aanwijzen"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte heeft meerdere strafbare feiten gepleegd. Wat adviseert de HovJ?",
+                "options": [
+                    "Alle feiten in één dagvaarding opnemen",
+                    "Feiten splitsen over meerdere procedures zonder overleg",
+                    "Feiten negeren",
+                    "Zelf straffen opleggen"
+                ],
+                "answer": 0,
+                "time": 30
+            },
+            {
+                "question": "Politie wil infiltratie toepassen in een criminele organisatie. Wat is de HovJ's advies?",
+                "options": [
+                    "Direct uitvoeren zonder toezicht",
+                    "Toestemming en toezicht via justitie",
+                    "Onmiddellijk stoppen",
+                    "Verdachte laten infiltreren"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte dreigt te vluchten. Welke maatregel adviseert HovJ?",
+                "options": [
+                    "Voorlopige hechtenis overwegen",
+                    "Niets doen",
+                    "Bewijzen vernietigen",
+                    "Verdachte publiekelijk aankondigen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Tijdens een huiszoeking vindt de politie gestolen goederen. Wat is de juiste procedure?",
+                "options": [
+                    "Goederen vernietigen",
+                    "Proces-verbaal opmaken en in bewaring nemen",
+                    "Aan verdachte teruggeven",
+                    "Goederen verbergen"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte geeft een bekentenis onder druk. Hoe handelt HovJ?",
+                "options": [
+                    "Bekentenis accepteren",
+                    "Advies geven over rechtsgeldigheid en bewijsvoering",
+                    "Verdachte meteen straffen",
+                    "Bewijs negeren"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Politie wil een getuige beschermen die bedreigd wordt. Wat adviseert de HovJ?",
+                "options": [
+                    "Geen actie",
+                    "Bescherming regelen en verklaring veiligstellen",
+                    "Getuige dwingen te verdwijnen",
+                    "Getuige negeren"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Tijdens een onderzoek wordt een verdachte ziek. Wat is de juiste actie?",
+                "options": [
+                    "Opsluiting negeren",
+                    "Medische hulp en advies over vervolging",
+                    "Direct schuldig verklaren",
+                    "Verdachte overdragen aan media"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Politie wil een verdachte observeren via afluisteren. Wat adviseert HovJ?",
+                "options": [
+                    "Onmiddellijk afluisteren zonder toestemming",
+                    "Alle wettelijke procedures volgen voor afluistering",
+                    "Bewijs verwijderen",
+                    "Verdachte waarschuwen"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte pleegt recidive. Welke overweging maakt HovJ?",
+                "options": [
+                    "Zwaardere straf overwegen en advies geven",
+                    "Negeer recidive",
+                    "Zelf straffen opleggen",
+                    "Verdachte vrijlaten"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Een slachtoffer trekt aangifte terug. Wat kan HovJ doen?",
+                "options": [
+                    "Onderzoek stoppen",
+                    "Advies geven over vervolging ondanks terugtrekking",
+                    "Verdachte vrijlaten",
+                    "Bewijs vernietigen"
+                ],
+                "answer": 1,
+                "time": 20
+            },
+            {
+                "question": "Tijdens een onderzoek ontdekt de politie corruptie bij een ambtenaar. Wat adviseert HovJ?",
+                "options": [
+                    "Negeer corruptie",
+                    "Advies over vervolging en interne meldingen",
+                    "Ambtenaar direct ontslaan",
+                    "Bewijs verbergen"
+                ],
+                "answer": 1,
+                "time": 25
+            },
+            {
+                "question": "Een verdachte is bekend met een zwaar strafblad. Welke maatregel adviseert HovJ?",
+                "options": [
+                    "Zware voorlopige hechtenis en intensief toezicht overwegen",
+                    "Negeer verleden",
+                    "Direct vrijlaten",
+                    "Bewijzen vernietigen"
+                ],
+                "answer": 0,
+                "time": 25
+            },
+            {
+                "question": "Politie wil een verdachte ondervragen die advocaat heeft ingeschakeld. Wat is correct?",
+                "options": [
+                    "Onderzoek stilleggen en proces respecteren",
+                    "Gedwongen zonder advocaat ondervragen",
+                    "Verdachte vrijlaten zonder vragen",
+                    "Bewijzen verwijderen"
+                ],
+                "answer": 0,
+                "time": 20
+            },
+            {
+                "question": "Bij een massaal onderzoek naar georganiseerde misdaad moet HovJ adviseren over:",
+                "options": [
+                    "Selectieve vervolging op basis van prioriteit en bewijs",
+                    "Iedere verdachte tegelijk opsluiten",
+                    "Bewijs verbergen",
+                    "Zelf straffen opleggen"
+                ],
+                "answer": 0,
+                "time": 30
             }
         ]
     }
