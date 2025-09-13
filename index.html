@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Toetsen - Juridisch Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="start-page">
+        <h1>Officiële Toetsen & Examens</h1>
+        <p>Toetsen voor examens tbv wetten, regels en juridische procedures. Kies een toets om te beginnen.</p>
+        <div class="quiz-list" id="quiz-list"></div>
+    </div>
+
+    <script>
+        fetch('quizzes.json')
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById('quiz-list');
+                data.forEach((quiz, index) => {
+                    const card = document.createElement('div');
+                    card.className = 'quiz-card';
+                    card.innerHTML = `
+                        <h2>${quiz.title}</h2>
+                        <p>${quiz.description || 'Een officiële toets met juridisch karakter.'}</p>
+                        <a href="quiz.html?quiz=${index}" class="start-btn">Start Toets</a>
+                    `;
+                    container.appendChild(card);
+                });
+            });
+    </script>
+</body>
+
+</html>
